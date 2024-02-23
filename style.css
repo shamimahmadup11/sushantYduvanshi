@@ -45,7 +45,7 @@ body{
 }
 .title{
     height: 70%;
-    width: 100%;
+    width: 110%;
     background-color: rgb(31, 31, 32);
     box-shadow: 10px 10px 10px;
 }
@@ -64,16 +64,16 @@ body{
     margin-left: 10%;
 }
 .image{
-    height:21rem ;
-    width:30rem; 
-    overflow: hidden;
-    scroll-behavior: smooth;
+    height:22rem ;
+    width:18rem;  
+    overflow-y: hidden;
+    display: flex;
 }
 .image img{
     border-radius: 20px;
     box-shadow: 10px 10px 10px ,-10px -10px 10px ;
-    height:22rem ;
-    width:22rem;    
+    height:25rem ;
+    width:32rem;    
     margin-left: 10%;
 }
 .workExp{
