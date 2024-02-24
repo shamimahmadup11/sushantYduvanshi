@@ -92,13 +92,15 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 4rem 2rem;
+    padding: 1rem 2rem;
+    margin-left: 300px;
 }
 .introvideo{
     color: white;
     height: 100%;
     width: 100%;
     margin-left: 10%;
+    padding-top: 15%;
 }
 .introvideo iframe{
     box-shadow: 10px 10px 10px black;
